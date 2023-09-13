@@ -9,7 +9,7 @@ About Me
 
 👩‍💻 Currently, I work as a Support @ Escalasoft Tecnologia.
 
-🔎 I'm also curious about music, games and technology].
+🔎 I'm also curious about music, games and technology.
 
 ✒️ In my free time, I enjoy play games, learn about technology and play guitar.
 
