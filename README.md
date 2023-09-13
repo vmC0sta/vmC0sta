@@ -1,6 +1,8 @@
 Hi, I'm Maria Eduarda 👋
 
 About Me
+
+
 💻 I'm a developer.
 
 🎓 I'm studying Java @ Entra21 | Course.
