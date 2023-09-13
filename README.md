@@ -18,4 +18,4 @@ HTML5 CSS3 JavaScript Git GitHub VS Code Java PHP Aseprite
 
 GitHub Stats ⚡
 
-(https://github-readme-stats.vercel.app/api?username=vmC0sta)](https://github.com/vmC0sta/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmC0sta)](https://github.com/vmC0sta/github-readme-stats)
