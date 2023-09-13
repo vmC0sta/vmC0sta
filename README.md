@@ -16,6 +16,3 @@ About Me
 I'm currently studying... 🧩
 HTML5 CSS3 JavaScript Git GitHub VS Code Java PHP Aseprite
 
-GitHub Stats ⚡
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmC0sta)](https://github.com/vmC0sta/github-readme-stats)
