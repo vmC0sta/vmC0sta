@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi, I'm Maria Eduarda 👋
 
-<!--
-**vmC0sta/vmC0sta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+💻 I'm a developer.
 
-Here are some ideas to get you started:
+🎓 I'm studying Java @ Entra21 | Course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 Currently, I work as a Support @ Escalasoft Tecnologia.
+
+🔎 I'm also curious about music, games and technology].
+
+✒️ In my free time, I enjoy play games, learn about technology and play guitar.
+
+📚 Currently Reading: Sapiens: A Brief History of Humankind.
+
+I'm currently studying... 🧩
+HTML5 CSS3 JavaScript Git GitHub VS Code Java PHP Aseprite
+
+GitHub Stats ⚡
+
+(https://github-readme-stats.vercel.app/api?username=vmC0sta)](https://github.com/vmC0sta/github-readme-stats)
