@@ -1,20 +1,37 @@
-Hi, I'm Maria Eduarda 👋
+# Olá, sou a Maria Eduarda! 👋
 
-About Me
+## Sobre Mim
 
+💻 Sou uma desenvolvedora apaixonada por tecnologia e resolução de problemas.
 
-💻 I'm a developer.
+🎓 Atualmente, estou estudando Java no Entra21 | O maior programa de Formação Tech para Empregabilidade de SC.
 
-🎓 I'm studying Java @ Entra21 | Course.
+👩‍💼 Trabalho como Suporte na Escalasoft Tecnologia, onde ajudo clientes a navegar pelo mundo da tecnologia.
 
-👩‍💻 Currently, I work as a Support @ Escalasoft Tecnologia.
+🔍 Não sou apenas uma entusiasta de tecnologia; também sou curiosa sobre música, jogos e as últimas tendências tecnológicas.
 
-🔎 I'm also curious about music, games and technology.
+✒️ No meu tempo livre, gosto de jogar, explorar novas tecnologias e tocar violão.
 
-✒️ In my free time, I enjoy play games, learn about technology and play guitar.
+📚 Lendo atualmente: "Sapiens: Uma Breve História da Humanidade."
 
-📚 Currently Reading: Sapiens: A Brief History of Humankind.
+## O Que Estou Aprendendo
 
-I'm currently studying... 🧩
-HTML5 CSS3 JavaScript Git GitHub VS Code Java PHP Aseprite
+🧩 Estou constantemente ampliando meu conhecimento em diversas áreas, incluindo:
+   - HTML5
+   - CSS3
+   - Bootstrap
+   - JavaScript
+   - Git
+   - GitHub
+   - VS Code
+   - Java
 
+Sinta-se à vontade para se conectar e aprender junto comigo nessa jornada no mundo da tecnologia!
+
+---
+
+Conecte-se comigo em:
+- [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/maria-eduarda-vieira-da-costa-954b951a5/))
+- [GitHub]([https://github.com/seu-usuario](https://github.com/vmC0sta))
+
+Vamos tornar o mundo digital mais emocionante e acessível juntos! 🚀
