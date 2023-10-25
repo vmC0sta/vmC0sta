@@ -1,6 +1,5 @@
 <h1 align="center">👋 Olá, eu sou a Maria Eduarda</h1>
 
-# Sobre Mim 🎸🎮📚
 - 🎸 Apaixonada por música, assim como no Guitar Hero, onde cada nota é uma vitória.
 - 🎮 Jogadora de clássicos do PS2 e claro, um Warzone para desestressar.
 - 📚 Atualmente, mergulhando no mundo das startups com "Startup Enxuta" de Eric Ries.
