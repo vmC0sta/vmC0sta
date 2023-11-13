@@ -1,7 +1,6 @@
 <h1 align="center">👋 Olá, eu sou a Maria Eduarda</h1>
 
 - 🎸 Apaixonada por música.
-- 🎮 Jogadora de clássicos do PS2 e claro, um Warzone para desestressar.
 - 📚 Atualmente, mergulhando no mundo das startups com "Startup Enxuta" de Eric Ries.
 - 🚀 17 anos.
 - 🌍 Inglês em nível B1.
