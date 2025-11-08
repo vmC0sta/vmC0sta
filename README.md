@@ -1,10 +1,4 @@
 <h1 align="center">👋 Olá, eu sou a Maria Eduarda</h1>
-
-- 🎸 Apaixonada por música.
-- 📚 Atualmente, mergulhando no mundo das startups com "Startup Enxuta" de Eric Ries.
-- 🚀 17 anos.
-- 🌍 Inglês em nível B1.
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vmC0sta&show_icons=true&theme=dark" alt="Estatísticas">
 </p>
