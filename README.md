@@ -1,44 +1,33 @@
-<h1 align="center">👋 Olá, eu sou a Maria Eduarda</h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vmC0sta&show_icons=true&theme=dark" alt="Estatísticas">
-</p>
+# Maria Eduarda Vieira da Costa
+**Software Engineer | Java & Spring Boot Specialist**
 
-## 🚀 Habilidades
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-red?logo=java&style=for-the-badge" alt="Java">
-  <img src="https://img.shields.io/badge/Spring%20Boot-brightgreen?logo=spring&style=for-the-badge" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&style=for-the-badge" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQL%20Server-blue?logo=microsoft-sql-server&style=for-the-badge" alt="SQL Server">
-  <img src="https://img.shields.io/badge/HTML-blue?logo=html5&style=for-the-badge" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-blue?logo=css3&style=for-the-badge" alt="CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&style=for-the-badge" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=for-the-badge" alt="JavaScript">
-  <img src="https://img.shields.io/badge/JSON-brightgreen?logo=json&style=for-the-badge" alt="JSON">
-  <img src="https://img.shields.io/badge/Postman-orange?logo=postman&style=for-the-badge" alt="Postman">
-</div>
+[LinkedIn](https://www.linkedin.com/in/maria-eduarda-vieira-da-costa-954b951a5) | [Email](mailto:duda.cv2404@gmail.com) | Brazil
 
-## 🌐 Redes Sociais
-<p align="center">
-  <a href="https://www.linkedin.com/in/maria-eduarda-vieira-da-costa-954b951a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/vm_c0sta/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.frontendmentor.io/profile/vmC0sta">
-    <img src="https://img.shields.io/badge/Frontend%20Mentor-20232A?style=for-the-badge&logo=frontendmentor&logoColor=white" alt="Frontend Mentor">
-  </a>
-</p>
+## Summary
+Software Engineer focused on backend development with extensive experience in the Java ecosystem. Skilled in building scalable RESTful APIs, microservices, and managing cloud environments (Oracle Cloud). Proven track record in maintaining legacy systems (Delphi/PHP) while driving modernization through Spring Boot and modern DevOps practices.
 
-## 📝 Projetos Destacados
-<div align="center">
-  <a href="https://github.com/vmC0sta/Entra21">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vmC0sta&repo=Entra21&theme=dark" alt="Projeto Entra21">
-  </a>
-  <a href="https://github.com/vmC0sta/QR-CODE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vmC0sta&repo=QR-CODE&theme=dark" alt="Projeto QRCODE Generator">
-  </a>
-</div>
+## Technical Skills
+* **Languages:** Java (8/11/17+), SQL (Oracle, PostgreSQL, MySQL), JavaScript (ES6+), PHP, Delphi.
+* **Frameworks/Libraries:** Spring Boot, Spring Security, Spring Data JPA, Hibernate, Vue.js, Laravel, Tailwind CSS.
+* **Tools & Infrastructure:** Docker, Git, Oracle Cloud Infrastructure (OCI), TortoiseSVN, Maven, Jenkins.
+* **Core Competencies:** REST APIs, Microservices Architecture, Unit Testing (JUnit/Mockito), Agile Methodologies.
 
-## 📫 Entre em Contato
-- ✉️ Email: duda.cv2404@gmail.com
+## Featured Projects
+
+### [QR Code Generator](link-do-seu-repositorio)
+* Developed a backend service for dynamic QR Code generation using Java and Spring Boot.
+* Implemented REST endpoints to handle custom data encoding and image processing.
+* **Tech Stack:** Java, Spring Boot, Maven.
+
+### [Entra21 Project](link-do-seu-repositorio)
+* Collaborative project developed during the Entra21 professional training program.
+* Focused on [descreva aqui o objetivo principal do projeto em 1 frase].
+* **Tech Stack:** Java, Spring, MySQL.
+
+## Professional Experience
+**Software Engineer | Escalasoft Tecnologia**
+* Currently developing and maintaining enterprise-level applications.
+* [Adicione um bullet sobre uma entrega técnica relevante aqui].
+
+---
+*“Simplicity is the soul of efficiency.”*
