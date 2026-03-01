@@ -1,5 +1,5 @@
 # Maria Eduarda Vieira da Costa
-**Software Engineer | Java & Spring Boot Specialist**
+**Software Engineer | Backend | Delphi, Java, PHP, JavaScript | SQL
 
 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-vieira-da-costa-954b951a5) | [Email](mailto:duda.cv2404@gmail.com) | Brazil
 
@@ -11,23 +11,5 @@ Software Engineer focused on backend development with extensive experience in th
 * **Frameworks/Libraries:** Spring Boot, Spring Security, Spring Data JPA, Hibernate, Vue.js, Laravel, Tailwind CSS.
 * **Tools & Infrastructure:** Docker, Git, Oracle Cloud Infrastructure (OCI), TortoiseSVN, Maven, Jenkins.
 * **Core Competencies:** REST APIs, Microservices Architecture, Unit Testing (JUnit/Mockito), Agile Methodologies.
-
-## Featured Projects
-
-### [QR Code Generator](link-do-seu-repositorio)
-* Developed a backend service for dynamic QR Code generation using Java and Spring Boot.
-* Implemented REST endpoints to handle custom data encoding and image processing.
-* **Tech Stack:** Java, Spring Boot, Maven.
-
-### [Entra21 Project](link-do-seu-repositorio)
-* Collaborative project developed during the Entra21 professional training program.
-* Focused on [descreva aqui o objetivo principal do projeto em 1 frase].
-* **Tech Stack:** Java, Spring, MySQL.
-
-## Professional Experience
-**Software Engineer | Escalasoft Tecnologia**
-* Currently developing and maintaining enterprise-level applications.
-* [Adicione um bullet sobre uma entrega técnica relevante aqui].
-
----
+  
 *“Simplicity is the soul of efficiency.”*
