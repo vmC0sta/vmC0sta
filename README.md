@@ -1,5 +1,5 @@
 # Maria Eduarda Vieira da Costa
-**Software Engineer | Backend | Delphi, Java, PHP, JavaScript | SQL
+**Software Engineer | Backend | Delphi, Java, PHP, JavaScript | SQL**
 
 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-vieira-da-costa-954b951a5) | [Email](mailto:duda.cv2404@gmail.com) | Brazil
 
